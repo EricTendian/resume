@@ -1,265 +1,189 @@
 {
   "basics": {
     "name": "Eric Tendian",
-    "label": "EdTech Entrepreneur and Full-Stack Developer",
-    "phone": "",
-    "website": "",
-    "summary": "Eric R. Tendian, Co-founder of Clarify, is a student entrepreneur with a passion for using technology to transform education and solve other social problems. With a strong technology knowledgebase and the experience from working at multiple early-stage organizations, he creates technology solutions which solve problems efficiently and result in long-term success. He is excited to take on challenges and work under pressure, while being very attentive to detail.\n\nPrevious to Clarify, he has worked with various nonprofits and student organizations, increasing membership/users through online marketing combined with a strong product. Most notably, while on the founding team of YSFlight Headquarters (a flight sim community) he grew the community from tens of users to over a thousand and continued to upgrade and revise the technology as those users needs grew and changed. In high school, he founded an IT consulting firm which overhauled multiple businesses' technology suites, as well as building a course registration system for his high school among other projects.\n\nSpecialties: Full-Stack Web Development, Cybersecurity, Radios, Engineering Management (small teams)\n\nSeeking: Mentors, investors, partners",
+    "label": "Full Stack Developer",
+    "picture": "https://tendian.io/images/author.png",
+    "email": "eric@tendian.io",
+    "phone": "(312) 476-9235",
+    "website": "tendian.io",
+    "summary": "Eric R. Tendian, Co-founder of Clarify and Software Engineer at Packback, is a student entrepreneur with a passion for using technology to transform education and solve other social problems. With a strong technology knowledgebase and the experience from working at multiple early-stage organizations, he creates technology solutions which solve problems efficiently and result in long-term success. He is excited to take on challenges and work under pressure, while being very attentive to detail.",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "",
-      "countryCode": "",
-      "region": ""
+      "city": "Chicago",
+      "countryCode": "US",
+      "region": "Illinois"
     },
-    "profiles": []
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "erictendian",
+        "url": "https://www.linkedin.com/in/erictendian"
+      },
+      {
+        "network": "Twitter",
+        "username": "EricTendian",
+        "url": "https://twitter.com/EricTendian"
+      },
+      {
+        "network": "GitHub",
+        "username": "EricTendian",
+        "url": "https://github.com/EricTendian"
+      }
+    ]
   },
   "work": [
     {
       "company": "Packback",
       "position": "Software Engineer",
-      "website": "",
-      "startDate": "2015-12-01",
-      "summary": "Doing full-stack development at a rapidly growing EdTech startup. I help build our digital textbook rental platform as well as our new textbook-based Q&A community site, Packback Answers. Previously a Software Engineering Intern at Packback from May 2014 onwards - hired on full-time in October 2015.\n\nAbout Packback:\n\"Packback is disrupting an $8B textbook industry to change the way college students find, buy, and interact with their educational materials. After launching in April of 2014 upon airing on ABC’s “Shark Tank” to a record 8.1M viewers nationwide, Packback has grown to serve over 130K students nationwide and is backed by $3M+ in venture funding from notable investors including Mark Cuban (Owner Dallas Mavs), Howard Tullman (CEO 1871), and Mark Tebbe (Founder Answers.com). Packback's success to date has been defined by our team and underscored by our hustle. Packback has been featured on numerous occasions in The Wall Street Journal, New York Times, Chicago Tribune, Washington Post, while it’s founders have been named as Crain’s Chicago 20 in their 20’s.\"",
-      "highlights": []
-    },
-    {
-      "company": "Packback",
-      "position": "Software Engineering Intern",
-      "website": "",
-      "startDate": "2014-05-01",
-      "summary": "Though starting out as an intern at Packback, the team treated me like a regular software engineer and gave me the same responsibilities as one. I was able to work up and down the stack, improving both my backend and frontend skills in a fast-paced startup environment.\n\nAccomplishments:\n- Built automated lead generation tool (1000s of leads) for sales team\n- Rebuilt eCommerce site from a legacy Magento platform into new Laravel microservice architecture\n- Achieved over 95% code coverage with unit and integration tests\n- Helped write acceptance tests to verify business needs met\n- Did code review for other team members\n- Worked with vendors to integrate their APIs into our digital textbook rental platform\n- Mentored by other team members\n- Honed troubleshooting skills\n\nSee the description for my first position for more about Packback.",
-      "highlights": [],
-      "endDate": "2015-12-01"
+      "website": "packback.co",
+      "startDate": "May 2014",
+      "endDate": "",
+      "summary": "Doing primarily backend development at a rapidly growing EdTech startup after joining as the second engineer. I help build our online course engagement tool Packback Questions, as well as our digital textbook rental platform. Previously a S.E. intern from May 2014 until being hired on full-time in October 2015. After launching in April of 2014 upon airing on ABC’s “Shark Tank” to a record 8.1M viewers nationwide, Packback has grown to serve over 130K students nationwide and is backed by $3M+ in venture funding from notable investors including Mark Cuban (Owner Dallas Mavs), Howard Tullman (CEO 1871), and Mark Tebbe (Founder Answers.com).",
+      "highlights": [
+        "Built automated lead generation tool which brings in 1000s of leads for sales team",
+        "Rebuilt eCommerce site from a legacy Magento platform into new Laravel microservice architecture",
+        "Achieved over 95% code coverage with unit and integration tests",
+        "Established a standardized code review process",
+        "Helped build acceptance test process to verify business needs met",
+        "Coached other team members"
+      ]
     },
     {
       "company": "Clarify",
       "position": "Co-Founder",
-      "website": "",
-      "startDate": "2014-04-01",
-      "summary": "Clarify is a platform which provides students a rich set of unique data insights while digitally connecting them directly with their advisors to bring students full transparency in order to register for the right courses that fit their passion and competence.\n--\nStudents lack the clarity they need when registering for courses so they spend too much time on registration & choose the wrong courses which don’t fit their major, passion, or competencies. This causes them to have a bad experience in those courses, potentially leading to failure and dropping out. In other cases, some students who apply for graduation cannot graduate because they are missing credit for a few courses that were overlooked. This leads to late graduations and more tuition expenses. \n\nClarify's platform helps students choose courses that match their passion, major, and advisor’s feedback by providing them with intelligent and data-driven course suggestions. Students can log onto the platform, select their school, and automatically import their transcript to see recommendations on which courses to take next.",
+      "website": "weclarify.com",
+      "startDate": "April 2014",
+      "endDate": "",
+      "summary": "Clarify is a platform which provides students a rich set of unique data insights while digitally connecting them directly with their advisors to bring students full transparency in order to register for the right courses that fit their passion and competence.",
       "highlights": []
     },
     {
-      "company": "YSUpload",
-      "position": "Technology Consultant",
-      "website": "",
-      "startDate": "2013-11-01",
-      "summary": "Provided technical advice for building a file-sharing platform among flight simulator modders. Fixed various bugs and performed technical support. Oversees future development on the website along with the site founder.",
-      "highlights": [],
-      "endDate": "2014-07-01"
-    },
-    {
-      "company": "Information & Technology Services, Chicago Public Schools",
-      "position": "Web Services Intern",
-      "website": "",
-      "startDate": "2013-07-01",
-      "summary": "Designed and implemented a Weebly template to be used by elementary and high schools. Built with Bootstrap, and includes support for custom color schemes and other features. Worked with other team members to test and document the template.\n\nTemplate available at http://schoolsite.cps.edu/template.html.\n\nSat in on team meetings, and gained a great deal of knowledge on enterprise software development.",
-      "highlights": [],
-      "endDate": "2013-08-01"
-    },
-    {
-      "company": "CookItFor.Us, Inc.",
-      "position": "Intern",
-      "website": "",
-      "startDate": "2011-07-01",
-      "summary": "Developed a Javascript plugin to allow content creators to interface with CookItForUs functionality. See http://affiliate.cookitfor.us/\nCreated a checkout system in CodeIgniter to allow users to buy goods quickly and easily, directly impacting revenue.\nFixed site bugs, implemented and tested new features, ensuring a satisfying user experience.\n\nCookitFor.Us was part of the Excelerate (now Techstars Chicago) Class of 2011. \"CookItFor.Us is an online social community connecting Cravers to Makers, to get recipes made. We enable Cravers (people who love to eat) to get their selected recipes made fresh, and delivered to their door; and fully licensed Makers (caterers, restaurants, bakeries, personal chefs) to produce foods that Cravers want to buy. We deliver all the benefits of homemade, without all the work – earning us a 20% service fee on all completed transactions, while generating commissions for recipe holders.\"",
-      "highlights": [],
-      "endDate": "2011-09-01"
-    },
-    {
-      "company": "Northside College Preparatory High School, Chicago Public Schools",
+      "company": "Northside College Prep",
       "position": "Student Technology Coordinator",
-      "website": "",
-      "startDate": "2011-07-01",
-      "summary": "Created a variety of tools and websites tailored to the school's technology needs. Managed the school's social media profiles. Coordinated the rollout of new web technology with students and staff. Ensured continuing success of initiatives and reported regularly to the Director of Technology.\n\nWhile working under CPS TechCrew (2011-2012): Solved technical issues and maintained the school's fleet of computers, lowering IT replacement costs and increasing productivity. Conducted penetration testing on servers and other network infrastructure to ensure the highest levels of security.",
-      "highlights": [],
-      "endDate": "2013-06-01"
-    },
-    {
-      "company": "YSFlight Headquarters",
-      "position": "Director of Technology",
-      "website": "",
-      "startDate": "2011-02-01",
-      "summary": "Developed and implemented a completely revamped website with a full scope of features, all dedicated to the benefit of the YSFlight community.\nManaged the site hosting, maximizing the performance for the available resources to drive up service value.\nServed as a forum administrator/moderator, keeping discussions lively and civil.\n\nAbout YSFlight Headquarters:\n\"Serving over 3,000 visitors per month in over 70 countries, YSFlight Headquarters (YSFHQ) is the largest English-speaking YSFlight fan community, and one of the largest YSFlight communities worldwide, providing players with discussion forums, addons, online events, and other resources to enhance the YSFlight experience. YSFlight, formally known as YS FLIGHT SIMULATION SYSTEM 2000, is a low-requirement flight simulator created by Soji Yamakawa in 1999, and under continuing development. The community at YSFHQ is tight-knit and built on trust among players. YSFHQ supports players through a shared commitment to our mission of enhancing the gaming experience.\"",
-      "highlights": [],
-      "endDate": "2014-06-01"
-    },
-    {
-      "company": "Tendian.io",
-      "position": "Web Solutions Consultant",
-      "website": "",
-      "startDate": "2008-06-01",
-      "summary": "I keep the web strong. Technology has no limits, so I protect people from its evils and deliver technology solutions tailored to their business. Offering consulting services to organizations of any size, with a specialty in web development.\n\nRebranded from Tendian Tech Support to Tendian.io in April 2012 with a shifted focus to technology consulting and solution development.",
-      "highlights": [],
-      "endDate": "2014-11-01"
+      "website": "northsideprep.org",
+      "startDate": "July 2011",
+      "endDate": "June 2013",
+      "summary": "Ensured continuing success of initiatives and reported regularly to the Director of Technology.",
+      "highlights": [
+        "Created a variety of tools and websites tailored to the school's technology needs.",
+        "Managed the school's social media profiles.",
+        "Coordinated the rollout of new web technology with students and staff.",
+        "Solved technical issues and maintained the school's fleet of computers, lowering IT replacement costs and increasing productivity.",
+        "Conducted penetration testing on servers and other network infrastructure to ensure the highest levels of security."
+      ]
     }
   ],
+  "volunteer": [],
   "education": [
     {
-      "institution": "Northside College Preparatory High School",
-      "area": "",
-      "studyType": "High School Diploma",
-      "startDate": "2009-01-01",
-      "gpa": "",
-      "courses": [],
-      "endDate": "2013-01-01"
-    },
-    {
       "institution": "Illinois Institute of Technology",
-      "area": "",
-      "studyType": "Bachelor's degree",
-      "startDate": "2013-01-01",
+      "area": "Information Technology and Management",
+      "studyType": "Bachelor",
+      "startDate": "August 2013",
+      "endDate": "May 2017",
       "gpa": "",
-      "courses": [],
-      "endDate": "2017-01-01"
+      "courses": []
     }
   ],
+  "awards": [
+    {
+      "title": "1st Place, ForenSecure Challenge",
+      "date": "April 2014",
+      "awarder": "Center for Cyber Security and Forensics Education",
+      "summary": "Participated in a forensics competition at an industry-focused technical conference. It attracts 200+ professionals for an intensive one- and a half-day schedule that includes discussion and debate over forensics, cyber crime and security, cloud forensics, steganography, and more."
+    },
+    {
+      "title": "2nd Place, SANS NetWars Tournament",
+      "date": "March 2014",
+      "awarder": "Cyber Aces Foundation",
+      "summary": "NetWars, a simulation utilized by the U.S. Air Force, covers topics including system hardening, packet analysis, digital forensics, and vulnerability assessment."
+    },
+    {
+      "title": "Fifty For The Future Award",
+      "date": "October 2013",
+      "awarder": "Illinois Technology Foundation",
+      "summary": "The Annual Fifty For The Future Celebration  recognizes exceptional students with an interest in and potential to use technology in innovative ways. Winners are chosen through a rigorous nomination and judging process, focused on high school through university and graduate level programs. "
+    }
+  ],
+  "publications": [],
   "skills": [
     {
-      "name": "JavaScript",
-      "level": "",
-      "keywords": []
+      "name": "Development",
+      "level": "Advanced",
+      "keywords": [
+        "PHP",
+        "Laravel",
+        "HTML 5",
+        "CSS 3",
+        "JavaScript ES6",
+        "AngularJS",
+        "Python",
+        "C++",
+        "Java",
+        "Node.js"
+      ]
     },
     {
-      "name": "CMS",
-      "level": "",
-      "keywords": []
+      "name": "Databases",
+      "level": "Intermediate",
+      "keywords": [
+        "MySQL",
+        "MongoDB"
+      ]
     },
     {
-      "name": "C++",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "HTML 5",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Web Frameworks",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Graphic Design",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "CSS3",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "HTML5",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Customer Service",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "jQuery",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Project Management",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Cloud Computing",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "System Administration",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "WordPress",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "MySQL",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Linux",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "CSS",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Software Development",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Web Services",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "PHP",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Python",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "IT Management",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Technical Writing",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Virtualization",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Drupal",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Robotics",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Java",
-      "level": "",
-      "keywords": []
+      "name": "DevOps",
+      "level": "Intermediate",
+      "keywords": [
+        "Docker",
+        "Shell Scripting",
+        "Chef",
+        "Continuous Integration",
+        "Nginx",
+        "Virtualization"
+      ]
     }
   ],
   "languages": [
     {
       "language": "English",
-      "fluency": "Native or bilingual"
+      "fluency": "Native speaker"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Technology",
+      "keywords": [
+        "interface design",
+        "cloud computing",
+        "networking",
+        "data visualization",
+        "computer building",
+        "open source software",
+        "electrical engineering"
+      ]
     },
     {
-      "language": "Japanese",
-      "fluency": "Elementary"
+      "name": "Business",
+      "keywords": [
+        "startups",
+        "venture capital",
+        "culture",
+        "management"
+      ]
+    },
+    {
+      "name": "Other",
+      "keywords": [
+        "journalism",
+        "crime",
+        "gaming",
+        "aviation",
+        "military vehicles",
+        "civil engineering",
+        "amateur radio"
+      ]
     }
   ],
   "references": []
